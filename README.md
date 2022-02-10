@@ -42,7 +42,7 @@
 | 라이브러리 | 카카오맵 API |
 
 
-## 5. 개발 기간
+## 5. 개발 기간 관련 (Gantt Chart included the division of work)
 - 총 3주
 ![moup_timelineTable](https://user-images.githubusercontent.com/8120558/153487466-e20032ca-ad38-4273-b879-ddb3adf96d2f.jpg)
 
