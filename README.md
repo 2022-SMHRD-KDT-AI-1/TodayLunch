@@ -64,7 +64,7 @@
 ---
 
 ## 페이지 링크
-
+http://project-student-e.ddns.net:9002/TodayLunch/Main.jsp
 ---
 
 - 작성자: 윤*영
