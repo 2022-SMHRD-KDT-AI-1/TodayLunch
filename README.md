@@ -40,8 +40,8 @@
 | 라이브러리 | 카카오맵 API |
 
 ## 5. 개발 기간
-
 - 총 3주
+![moup_timelineTable](https://user-images.githubusercontent.com/8120558/153487466-e20032ca-ad38-4273-b879-ddb3adf96d2f.jpg)
 
 ## 6. 활용 사진 예시
 
@@ -49,7 +49,7 @@
 ![Untitled 1](https://user-images.githubusercontent.com/8120558/153363102-cf91841b-6a0f-40b0-9dfd-c054afc8c26e.png)
 ![Untitled](https://user-images.githubusercontent.com/8120558/153363111-3dff5ce7-3fa9-422f-984d-867f84de2bb6.png)
 
-## 6. 팀원 단위 업무 분장 및 결과표
+## 7. 팀원 단위 업무 분장 및 결과표
 
 팀원 (가나다순): 김_현(팀장), 김_진, 윤_영, 장_원, 조 근, 이상 5인.
 
