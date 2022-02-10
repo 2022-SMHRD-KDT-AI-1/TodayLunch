@@ -27,9 +27,11 @@
     1. 인근 맛집 탐방으로 맛집에 대한 정보확인
 7. 로그인, 회원가입 기능
 
+
 ### A. **오:점. 오늘의 점심** 유스케이스
 
 ![오점_유스케이스](https://user-images.githubusercontent.com/8120558/153363054-1e073ddd-5504-4284-9d61-0f7d18d7f6f8.png)
+
 
 ## 4. 개발 및 작업 환경
 | 종류 | 개발 환경 및 사용툴 |
@@ -39,15 +41,18 @@
 | 크롤링 | ◦ Jupyter Notebook |
 | 라이브러리 | 카카오맵 API |
 
+
 ## 5. 개발 기간
 - 총 3주
 ![moup_timelineTable](https://user-images.githubusercontent.com/8120558/153487466-e20032ca-ad38-4273-b879-ddb3adf96d2f.jpg)
 
+
 ## 6. 활용 사진 예시
 
+![Untitled](https://user-images.githubusercontent.com/8120558/153363111-3dff5ce7-3fa9-422f-984d-867f84de2bb6.png)
 ![KakaoTalk_20220208_205744115](https://user-images.githubusercontent.com/8120558/153363092-3a2a07bd-d9b5-4744-932a-892ef9db7910.png)
 ![Untitled 1](https://user-images.githubusercontent.com/8120558/153363102-cf91841b-6a0f-40b0-9dfd-c054afc8c26e.png)
-![Untitled](https://user-images.githubusercontent.com/8120558/153363111-3dff5ce7-3fa9-422f-984d-867f84de2bb6.png)
+
 
 ## 7. 팀원 단위 업무 분장 및 결과표
 
@@ -79,5 +84,9 @@ http://project-student-e.ddns.net:9002/TodayLunch/Main.jsp
         2. 개발기간
         3. 활용사진 예시
         4. 팀원단위 업무 분장 및 결과 작성
+    3. 2022.02.11. 새벽 5시
+        1. 타임 테이블 업로드
+        2. 사진예시 순서 조정
+        3. 자잘한 몇가지  
         
 - 경고: 작성자 외 수정, 첨가를 금합니다.
