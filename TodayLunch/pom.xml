@@ -31,6 +31,15 @@
 		<finalName>TodayLunch</finalName>
 		<pluginManagement>
 			<plugins>
+				<plugin>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.8.1</version>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+						<encoding>MS949</encoding>
+					</configuration>
+				</plugin>
 				<!-- 서버 배포 셋팅 -->
 				<plugin>
 					<groupId>org.apache.tomcat.maven</groupId>
