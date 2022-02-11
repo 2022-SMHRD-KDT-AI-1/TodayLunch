@@ -89,4 +89,4 @@ http://project-student-e.ddns.net:9002/TodayLunch/Main.jsp
         2. 사진예시 순서 조정
         3. 자잘한 몇가지  
         
-- 경고: 작성자 외 수정, 첨가를 금합니다.
+- 경고: 작성자 외 수정, 첨가를 금합니다. Copyright by Young Yoon from 2022. 02. 09.
