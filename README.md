@@ -37,7 +37,7 @@
 | 종류 | 개발 환경 및 사용툴 |
 | --- | --- |
 | 프론트엔드 | • Adobe XD, Ilustrator, Photoshop |
-| 백엔드 | • IDE 환경: Eclipse 9.X • Apache Tomcat (Ver. x.xx) 및 Oracle DB |
+| 백엔드 | • IDE 환경: Eclipse 9.X • Apache Tomcat (Ver. 8.5) 및 Oracle DB(ver. 9.x) |
 | 크롤링 | ◦ Jupyter Notebook |
 | 라이브러리 | 카카오맵 API |
 
